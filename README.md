@@ -1,2 +1,3 @@
 # activeloop-langchain-course
-Code producet at Active Loop LangChain &amp; Vector Databases in Production course.
+
+Code produce at [Active Loop LangChain and Vector Databases in Production](https://learn.activeloop.ai/courses/take/langchain) course.
